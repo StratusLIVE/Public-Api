@@ -1,4 +1,6 @@
 Public-Api
 ==========
 
-StratusLIVE API for CRM product suite.
+API for the StratusLIVE CRM product suite. 
+
+Find documentation in [the wiki](https://github.com/StratusLIVE/Public-Api/wiki)
